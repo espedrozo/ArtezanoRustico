@@ -7,9 +7,9 @@ const Footer = () => {
             <div className='container'>
                 <ul>
                     <li className='nav-item'>
-                        <a href='/'>Home</a>
+                        <a href='#hero'>^ Início</a>
                     </li>
-                    <li className='nav-item'>
+                    {/* <li className='nav-item'>
                         <a href='/'>About</a>
                     </li>
                     <li className='nav-item'>
@@ -17,7 +17,7 @@ const Footer = () => {
                     </li>
                     <li className='nav-item'>
                         <a href='/'>Demo</a>
-                    </li>
+                    </li> */}
                 </ul>
                 <div className='bottom'>
                     <span className='line'></span>
