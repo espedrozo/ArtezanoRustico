@@ -34,6 +34,13 @@
     font-weight: 600;
 }
 
+#instagram {
+    color: #E1306c;
+    margin: 0 .2rem;
+    font-size: 1.3rem;
+
+}
+
 .about .button {
     margin: 1rem;
 }

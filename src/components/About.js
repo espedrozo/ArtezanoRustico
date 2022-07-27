@@ -1,5 +1,6 @@
 import React from "react";
 import john from './images/john-doe.png';
+import {FaInstagram} from 'react-icons/fa';
 import './About.css';
 
 const About = () => {
@@ -24,7 +25,9 @@ const About = () => {
 
                     <p>Sed congue pulvinar blandit. Cras et mi ut eros porttitor sagittis. 
                         Aliquam consequat, diam ut luctus lacinia, sapien arcu aliquam nulla, a aliquet purus mauris eu ex.</p>
-                    <button className='button'>Explore More</button>
+                    <a href="https://www.instagram.com/artezanorustico/" target='_blank' rel="noopener noreferrer">
+                        <button className='button'><FaInstagram id='instagram' /> Explore Mais</button>
+                    </a>
                 </div>
             </div>
 

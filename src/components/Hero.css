@@ -37,7 +37,7 @@
 }
 
 .hero .content p:nth-child(3) {
-    font-size: 5rem;
+    font-size: 4rem;
     font-weight: 700;
 }
 
@@ -52,6 +52,12 @@
     background-color: var(--secondary-dark);
     border: 1px solid var(--secondary-dark);
     color: #333;
+}
+
+#whatsapp {
+    color: green;
+    margin: 0 .5rem;
+    font-size: 1.3rem;
 }
 
 .hero .button:hover {
