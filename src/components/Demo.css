@@ -37,6 +37,33 @@
     margin: auto;
 }
 
+.button {
+    width: 100%;
+    background-color: rgb(255, 237, 73);
+    border: 1px solid var(--secondary-color);
+    color: #333;
+}
+
+/* .button:hover {
+    background-color: rgb(255, 236, 129);
+    border: 1px solid var(--secondary-dark);
+    transform: scale(1.01);
+    transition: 0.1s ease-in-out;
+   
+} */
+
+.raise:hover, .raise:focus {
+    background-color: var(--secondary-color);
+    border: 1px solid var(--secondary-dark);
+    box-shadow: 0 0.7em 0.7em -0.4em yellow;
+    transform: translateY(-0.25em);
+    transition: transform 0.2s ease-in-out;
+}
+
+#demo-a-tag {
+    width: auto;
+}
+
 @media screen and (max-width: 940px) {
     .demo .container {
         max-width: 100%;
