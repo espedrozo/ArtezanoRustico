@@ -12,7 +12,7 @@ const About = () => {
                     <h2>About</h2>
                     <span className='line'></span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                        Phasellus lacinia nisl id mi lobortis gravida eu a arcu. 
+                        Phasellus lacinia nisl id mi lobortis gravid eu a arcu. 
                         Etiam tincidunt at nulla non blandit. 
                         Nullam id ante nec quam gravida ultricies id sit amet diam. 
                         Vivamus blandit libero et lacus fringilla lobortis ut sed odio. 

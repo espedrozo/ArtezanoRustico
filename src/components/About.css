@@ -36,15 +36,18 @@
 
 #instagram {
     color: #E1306c;
-    margin: 0 .2rem;
     font-size: 1.3rem;
-
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+    vertical-align: -2.5px;
+    
 }
 
 .about .button {
     margin: 1rem;
     background-color: rgb(255, 237, 73);
-    border: 1px solid var(--secondary-dark);
+    border: 1px solid var(--secondary-color);
     color: #333;
 }
 
