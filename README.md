@@ -1,2 +1,2 @@
-# ArtezanoWebsite
+# ArtezanoRústico
 Landing Page
