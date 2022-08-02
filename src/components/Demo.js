@@ -7,9 +7,9 @@ const Demo = () => {
         <div className='demo' id="demo">
             <div className='container'>
                 <div className='col-1'>
-                    <p>More than 100 Financial Planners,</p>
-                    <p>One Philosophy</p>
-                    <p>Every single one of our financial advisors receives rigorous training.</p>
+                    <p>Diversos projetos realizados,</p>
+                    <p>Um Objetivo</p>
+                    <p>ver em cada cliente um sorriso no rosto e o brilho no olhar.</p>
                     <a id='demo-a-tag' href='https://wa.me/5547992297047' target='_blank' rel="noopener noreferrer">
                         <button className='button raise'><FaWhatsapp id='whatsapp' />Solicite seu Orçamento</button>
                     </a>
