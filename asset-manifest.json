@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/artezanorustico/static/css/main.5d3e3ac6.css",
+    "main.js": "/artezanorustico/static/js/main.ea92184f.js",
+    "static/media/hero.jpg": "/artezanorustico/static/media/hero.850466e7b938cf42426f.jpg",
+    "static/media/john-doe.png": "/artezanorustico/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/logo.png": "/artezanorustico/static/media/logo.014fa922a0314801d50d.png",
+    "index.html": "/artezanorustico/index.html",
+    "main.5d3e3ac6.css.map": "/artezanorustico/static/css/main.5d3e3ac6.css.map",
+    "main.ea92184f.js.map": "/artezanorustico/static/js/main.ea92184f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3e3ac6.css",
+    "static/js/main.ea92184f.js"
+  ]
+}
