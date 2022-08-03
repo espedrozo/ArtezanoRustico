@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/artezanorustico/static/css/main.5d3e3ac6.css",
-    "main.js": "/artezanorustico/static/js/main.ea92184f.js",
+    "main.css": "/artezanorustico/static/css/main.090d7f2f.css",
+    "main.js": "/artezanorustico/static/js/main.c8bdaecc.js",
     "static/media/hero.jpg": "/artezanorustico/static/media/hero.850466e7b938cf42426f.jpg",
     "static/media/john-doe.png": "/artezanorustico/static/media/john-doe.e4675f127b56d41e5c8a.png",
-    "static/media/logo.png": "/artezanorustico/static/media/logo.014fa922a0314801d50d.png",
+    "static/media/logoartezano.png": "/artezanorustico/static/media/logoartezano.2aba1bcd8407cb071865.png",
     "index.html": "/artezanorustico/index.html",
-    "main.5d3e3ac6.css.map": "/artezanorustico/static/css/main.5d3e3ac6.css.map",
-    "main.ea92184f.js.map": "/artezanorustico/static/js/main.ea92184f.js.map"
+    "main.090d7f2f.css.map": "/artezanorustico/static/css/main.090d7f2f.css.map",
+    "main.c8bdaecc.js.map": "/artezanorustico/static/js/main.c8bdaecc.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d3e3ac6.css",
-    "static/js/main.ea92184f.js"
+    "static/css/main.090d7f2f.css",
+    "static/js/main.c8bdaecc.js"
   ]
 }
