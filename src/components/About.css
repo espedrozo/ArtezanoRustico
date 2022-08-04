@@ -34,31 +34,6 @@
     font-weight: 600;
 }
 
-#instagram {
-    color: #E1306c;
-    font-size: 1.3rem;
-    margin-top: auto;
-    margin-bottom: auto;
-    position: relative;
-    vertical-align: -2.5px;
-    
-}
-
-.about .button {
-    margin: 1rem;
-    background-color: rgb(255, 237, 73);
-    border: 1px solid var(--secondary-color);
-    color: #333;
-}
-
-.button:hover {
-    background-color: var(--secondary-color);
-    border: 1px solid var(--secondary-dark);
-    box-shadow: 0 0.7em 0.7em -0.5em yellow;
-    transform: translateY(-0.20em);
-    transition: transform 0.2s ease-in-out;
-}
-
 @media screen and (max-width: 940px) {
     .about .container {
         grid-template-columns: 1fr;
@@ -75,9 +50,5 @@
 
     .about .container .col-2 {
         padding: 0;
-    }
-
-    .about button {
-        margin-bottom: 1rem;
     }
 }
