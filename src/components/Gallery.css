@@ -40,12 +40,16 @@
     vertical-align: -2.5px;
 }
 
+#divbutton {
+    text-align: center;
+}
+
 .gallery .button {
     background-color: rgb(255, 237, 73);
     border: 1px solid var(--secondary-color);
     color: #333;
     max-width: 300px;
-    margin-left: 38%;
+    text-align: center;
 }
 
 .button:hover {

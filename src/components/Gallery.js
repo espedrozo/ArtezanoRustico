@@ -2,6 +2,9 @@ import React from "react";
 import pergolado from './images/pergolado.jpg';
 import deck from './images/deck.jpg';
 import fachada from './images/fachada.jpg';
+import pergolado2 from './images/pergolado2.jpg';
+import table from './images/table.jpg';
+import livingRoom from './images/living_room.jpg';
 import {FaInstagram} from 'react-icons/fa';
 import './Gallery.css';
 
@@ -21,10 +24,22 @@ const Gallery = () => {
                     <div className='pic'>
                         <img id='pic' src={fachada} alt='fachada' />
                     </div>
+                    <div className='pic'>
+                        <img id='pic' src={pergolado2} alt='pergolado2' />
+                    </div>
+                    <div className='pic'>
+                        <img id='pic' src={table} alt='table' />
+                    </div>
+                    <div className='pic'>
+                        <img id='pic' src={livingRoom} alt='livingRoom' />
+                    </div>
                 </div>
-                <a href="https://www.instagram.com/artezanorustico/" target='_blank' rel="noopener noreferrer">
-                        <button className='button'><FaInstagram id='instagram' /> Explore Mais</button>
+
+                <div id="divbutton">
+                    <a href="https://www.instagram.com/artezanorustico/" target='_blank' rel="noopener noreferrer">
+                            <button className='button'><FaInstagram id='instagram' /> Explore Mais</button>
                     </a>
+                </div>
             </div>
 
 
