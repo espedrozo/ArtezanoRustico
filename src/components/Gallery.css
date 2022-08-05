@@ -41,11 +41,11 @@
 }
 
 .gallery .button {
-    margin: 0rem;
     background-color: rgb(255, 237, 73);
     border: 1px solid var(--secondary-color);
     color: #333;
-    width: 300px;
+    max-width: 300px;
+    margin-left: 38%;
 }
 
 .button:hover {
