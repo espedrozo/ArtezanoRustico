@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/artezanorustico/static/css/main.090d7f2f.css",
-    "main.js": "/artezanorustico/static/js/main.c8bdaecc.js",
+    "main.css": "/artezanorustico/static/css/main.378a86ec.css",
+    "main.js": "/artezanorustico/static/js/main.390b2980.js",
     "static/media/hero.jpg": "/artezanorustico/static/media/hero.850466e7b938cf42426f.jpg",
+    "static/media/table.jpg": "/artezanorustico/static/media/table.fd0c9dda1910f2269065.jpg",
     "static/media/john-doe.png": "/artezanorustico/static/media/john-doe.e4675f127b56d41e5c8a.png",
+    "static/media/pergolado2.jpg": "/artezanorustico/static/media/pergolado2.8c6a48b1041e200d0ede.jpg",
+    "static/media/fachada.jpg": "/artezanorustico/static/media/fachada.7281be526173922e2f20.jpg",
+    "static/media/living_room.jpg": "/artezanorustico/static/media/living_room.0d2a47b00ecfce150b18.jpg",
+    "static/media/deck.jpg": "/artezanorustico/static/media/deck.a0665a0ad4068c82a762.jpg",
+    "static/media/pergolado.jpg": "/artezanorustico/static/media/pergolado.9baac41c81ac306603af.jpg",
     "static/media/logoartezano.png": "/artezanorustico/static/media/logoartezano.2aba1bcd8407cb071865.png",
     "index.html": "/artezanorustico/index.html",
-    "main.090d7f2f.css.map": "/artezanorustico/static/css/main.090d7f2f.css.map",
-    "main.c8bdaecc.js.map": "/artezanorustico/static/js/main.c8bdaecc.js.map"
+    "main.378a86ec.css.map": "/artezanorustico/static/css/main.378a86ec.css.map",
+    "main.390b2980.js.map": "/artezanorustico/static/js/main.390b2980.js.map"
   },
   "entrypoints": [
-    "static/css/main.090d7f2f.css",
-    "static/js/main.c8bdaecc.js"
+    "static/css/main.378a86ec.css",
+    "static/js/main.390b2980.js"
   ]
 }
