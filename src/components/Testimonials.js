@@ -1,5 +1,5 @@
 import React from 'react';
-import user1 from './images/user1.jpeg';
+import user1 from './images/pergFloripa.jpg';
 import user2 from './images/user2.jpeg';
 import user3 from './images/user3.jpeg';
 import './Testimonials.css';
@@ -13,11 +13,12 @@ const Testimonials = () => {
                 <div className='content'>
                     <div className='card'>
                         <img src={user1} alt='user1' />
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                            Pellentesque blandit sapien a nibh lobortis vestibulum. 
-                            Quisque auctor, velit quis suscipit pellentesque.</p>
-                        <p><span>John</span></p>
-                        <p>Director of ..</p>
+                        <p>A Artezano Rústico é satisfação garantida. Preço justo e qualidade excelente. 
+                            <br/>O atendimento é o maior diferencial, sempre atenciosos em entender as necessidades 
+                            do cliente e propor soluções e alternativas que agregam valor ao produto final. 
+                            Sempre que precisar contarei com a Artezano! Recomendo!</p>
+                        <p><span>Felipe  de Arau</span></p>
+                        <p>Florianópolis - SC</p>
                     </div>
                     <div className='card'>
                         <img src={user2} alt='user1' />

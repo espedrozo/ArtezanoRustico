@@ -6,6 +6,7 @@ import Gallery from './components/Gallery';
 import Testimonials from './components/Testimonials';
 import Demo from './components/Demo';
 import Footer from './components/Footer';
+import Slider from './components/Slider/Slider';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Hero />
       <About />
       <Gallery />
+      {/* <Slider /> */}
       <Testimonials />
       <Demo />
       <Footer />
