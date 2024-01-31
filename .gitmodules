@@ -1,0 +1,3 @@
+[submodule "artezanorustico"]
+	path = artezanorustico
+	url = https://github.com/espedrozo/artezanorustico.git
