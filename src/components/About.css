@@ -5,11 +5,22 @@
     width: 100%;
 }
 
+p {
+    text-align: justify;
+}
+
 .about .container {
     width: 1240px;
     margin: auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+}
+
+.about .container img#family-photo {
+    float: left;
+    margin-top: 50%;
+    max-width: 100%;
+    height: auto;
 }
 
 .about h2 {

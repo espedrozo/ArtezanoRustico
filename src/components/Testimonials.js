@@ -17,7 +17,7 @@ const Testimonials = () => {
                             <br/>O atendimento é o maior diferencial, sempre atenciosos em entender as necessidades 
                             do cliente e propor soluções e alternativas que agregam valor ao produto final. 
                             Sempre que precisar contarei com a Artezano! Recomendo!</p>
-                        <p><span>Felipe  de Arau</span></p>
+                        <p><span>Felipe  de Araujo</span></p>
                         <p>Florianópolis - SC</p>
                     </div>
                     <div className='card'>

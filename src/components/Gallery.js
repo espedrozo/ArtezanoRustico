@@ -4,7 +4,7 @@ import deck from './images/deck.jpg';
 import fachada from './images/fachada.jpg';
 import pergolado2 from './images/pergolado2.jpg';
 import table from './images/table.jpg';
-import livingRoom from './images/living_room.jpg';
+import sushiart from './images/sushiart.jpg';
 import {FaInstagram} from 'react-icons/fa';
 import './Gallery.css';
 
@@ -31,7 +31,7 @@ const Gallery = () => {
                         <img id='pic' src={table} alt='table' />
                     </div>
                     <div className='pic'>
-                        <img id='pic' src={livingRoom} alt='livingRoom' />
+                        <img id='pic' src={sushiart} alt='sushiart' />
                     </div>
                 </div>
 
