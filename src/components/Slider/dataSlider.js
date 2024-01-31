@@ -27,5 +27,4 @@ const dataSlider = [
     subTitle: "Lorem"
   },
 ];
-
 export default dataSlider;
