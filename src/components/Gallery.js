@@ -2,7 +2,7 @@ import React from "react";
 import pergolado from './images/pergolado.jpg';
 import deck from './images/deck.jpg';
 import fachada from './images/fachada.jpg';
-import pergolado2 from './images/pergolado2.jpg';
+import pergolado2 from './images/sushiart4.jpg';
 import table from './images/table.jpg';
 import sushiart from './images/sushiart.jpg';
 import {FaInstagram} from 'react-icons/fa';
