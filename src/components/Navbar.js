@@ -12,7 +12,7 @@ const Navbar = () => {
     return (
         <div className='header'>
             <nav className='navbar'>
-                <a href='/' className='logo'>
+                <a href='#hero' className='logo'>
                     <img src={logo} alt='logo' />
                 </a>
                 <div className='hamburger' onClick = {handleClick}>

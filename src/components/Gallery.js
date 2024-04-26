@@ -9,6 +9,7 @@ import {FaInstagram} from 'react-icons/fa';
 import './Gallery.css';
 
 const Gallery = () => {
+    
     return (
         <div className='gallery' id="gallery">
             <div className='container'>
